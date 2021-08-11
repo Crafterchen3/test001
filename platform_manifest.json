@@ -1,0 +1,7 @@
+{
+    "name":"Rufus",
+    "main_file_path":"%userprofile%\\test\\rufus-3.15.exe",
+    "paths":[
+        {"copy":"*","to":"%userprofile%\\test"}
+    ]
+}
